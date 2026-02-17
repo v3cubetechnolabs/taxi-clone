@@ -1,5 +1,8 @@
 Taxi Clone App Development: Build an Uber-Like Ride-Hailing Platform
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2ab3b165-4707-4ab4-81be-12ac763004fc" />
+
+
 The ride-hailing industry continues to grow rapidly, creating massive opportunities for startups and enterprises. Building a Taxi Clone App allows businesses to launch a powerful ride-booking platform similar to Uber—but customized for local markets, regulations, and business goals.
 
 In this blog, we’ll explore what a taxi clone app is, its core features, development process, cost, and how you can scale it successfully.
