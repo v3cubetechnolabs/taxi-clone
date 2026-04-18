@@ -17,15 +17,15 @@ Unlike building from scratch, taxi clone development significantly reduces time-
 
 **Here’s why taxi clone apps are a smart investment:**
 
-📈 Growing demand for on-demand mobility
+Growing demand for on-demand mobility
 
-🚕 Increasing smartphone penetration
+Increasing smartphone penetration
 
-🌍 Strong opportunities in local & regional markets
+Strong opportunities in local & regional markets
 
-⚙️ Faster launch with proven technology
+Faster launch with proven technology
 
-💰 Multiple revenue streams
+Multiple revenue streams
 
 Businesses can launch city-based, country-wide, or niche ride-hailing services using a scalable taxi clone platform.
 
