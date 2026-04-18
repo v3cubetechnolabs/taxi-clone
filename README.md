@@ -1,4 +1,4 @@
-Taxi Clone App Development: Build an Uber-Like Ride-Hailing Platform
+**Taxi Clone App Development: Build an Uber-Like Ride-Hailing Platform**
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2ab3b165-4707-4ab4-81be-12ac763004fc" />
 
